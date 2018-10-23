@@ -1,7 +1,7 @@
 chat
 =====
 
-An OTP library
+without An OTP library
 
 Build
 -----
